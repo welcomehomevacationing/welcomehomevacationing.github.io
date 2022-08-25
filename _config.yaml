@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Soon
-email: youremailaddress
+email: dani@welcomehomevacationing.com
 phone: 0123456789
 description: A coming soon page for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
