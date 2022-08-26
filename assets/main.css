@@ -155,3 +155,10 @@ a:active{
 .social-media-list .icon {
 	vertical-align: text-top;
 	}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	}
