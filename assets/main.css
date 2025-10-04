@@ -22,7 +22,7 @@ body {
 	background-size: cover;
 	height: 100%;
 	overflow: visible;
-	position: absolute;
+	background: rgba(255,255,255,0.6) none;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -34,30 +34,25 @@ body {
 	
 #container {
 	margin: 20px auto;
-	max-width: 600px;
-	width: 60%;
+	max-width: 900px;
+	width: 90%;
+	color: #222222;
 	min-width: 260px;
-	margin: 10px auto 0 auto;
 	text-align: left;
 	position: relative;
 	padding: 25px;
-	background: transparent url(img/#black50.png);
-	background: rgba(255,255,255,0.5) none;
-	/*background-color: rgb(46, 46, 255);
-  	opacity: 0.3;*/
-	-moz-border-radius: 12px;
-	-webkit-border-radius: 4px;
-	border-radius: 4px;
-	/* Scale origin */
-	}
+	background: rgba(255,255,255,0.4) none;
+	border-radius: 12px;
+}
 
 body {
 	font-family: -apple-system, BlinkMacSystemFont,
-	'avenir next', avenir,
+	color: #222222;
         'helvetica neue', helvetica,
 	ubuntu,
 	roboto, noto,
 	'segoe ui', arial,
+	color: #222222;
 	sans-serif;
 	font-size: 16px; /* Scale origin */
 	color: #000000;
