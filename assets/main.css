@@ -42,7 +42,7 @@ body {
 	position: relative;
 	padding: 25px;
 	background: transparent url(img/#black50.png);
-	background: rgba(255,255,255,0.24) none;
+	background: rgba(255,255,255,0.5) none;
 	/*background-color: rgb(46, 46, 255);
   	opacity: 0.3;*/
 	-moz-border-radius: 12px;
