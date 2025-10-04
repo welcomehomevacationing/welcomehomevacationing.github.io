@@ -9,8 +9,8 @@ layout: default
 
 <img src="./images/Company_Logo.png" alt="drawing" width="600" class="center"/>
 
-# Coming Soon
+# Making Your Dreams Come True
 
-Site under construction.  Please feel free to contact me directly to begin planning your next vacation
+To Plan You Next Vacation Please Contact Me At:
 
 
