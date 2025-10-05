@@ -18,7 +18,7 @@ layout: default
     <p style="font-size:1.3em; color:#444; margin-bottom:2em;">Welcome Home Vacationing helps you plan the perfect getaway. Let us turn your travel dreams into reality!</p>
     <hr style="width:60%; margin:2em auto;">
     <h2 style="color:#444;">Contact Information</h2>
-    <p class="contact-info">Email: <a href="mailto:dani@welcomhomevacationing.com">dani@welcomhomevacationing.com</a><br>
+    <p class="contact-info">Email: <a href="mailto:dani@welcomehomevacationing.com">dani@welcomehomevacationing.com</a><br>
     Phone: <a href="tel:+12489249438">(248) 924-9438</a></p>
     <div style="margin-top:1.5em; display:flex; align-items:center; justify-content:center;">
         <a href="https://instagram.com/welcomehomevacationing" target="_blank" style="display:flex; align-items:center; text-decoration:none;">
